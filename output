@@ -1,0 +1,35 @@
+Welcome to Calculator
+    
+Choose one operation:
+1. Add
+2. Subtract
+3. Exit
+
+Select the operation: 1
+Let's perform addition
+Give two numbers on two lines
+Number 1 is: 12
+Number 2 is: 4
+The sum is: 16
+Welcome to Calculator
+    
+Choose one operation:
+1. Add
+2. Subtract
+3. Exit
+
+Select the operation: 2
+Let's perform subtraction
+Give two numbers on two lines
+Number 1 is: 18
+Number 2 is: 19
+The difference is: -1
+Welcome to Calculator
+
+Choose one operation:
+1. Add
+2. Subtract
+3. Exit
+
+Select the operation: 3
+Exiting the calculator, bye bye!
